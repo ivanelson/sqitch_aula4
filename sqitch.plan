@@ -4,3 +4,4 @@
 
 schema_escola 2016-02-26T14:13:40Z Ivan Nunes <ivan.nunes@iv4n.com> # Cria esquema para o banco de dados db_escola
 aluno [schema_escola] 2016-02-26T14:45:21Z Ivan Nunes <ivan.nunes@iv4n.com> # Cria tabela de alunos
+@v1.0.0-15433 2016-02-26T15:08:35Z Ivan Nunes <ivan.nunes@iv4n.com> # tag para mudanca aluno e esquema escola
