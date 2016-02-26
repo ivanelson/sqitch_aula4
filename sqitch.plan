@@ -3,3 +3,4 @@
 %uri=https://github.com/ivanelson/sqitch_aula4.git
 
 schema_escola 2016-02-26T14:13:40Z Ivan Nunes <ivan.nunes@iv4n.com> # Cria esquema para o banco de dados db_escola
+aluno [schema_escola] 2016-02-26T14:45:21Z Ivan Nunes <ivan.nunes@iv4n.com> # Cria tabela de alunos
